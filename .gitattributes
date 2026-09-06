@@ -1,0 +1,9 @@
+* text=auto
+*.swift text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+Assets/ipod-mesh.json linguist-generated=true
+*.blend binary
+*.icns binary
+*.png binary

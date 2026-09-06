@@ -1,0 +1,13 @@
+.DS_Store
+._*
+*.app/
+dist/
+.build/
+work/
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
+.env
+*.sqlite*
+*.jsonl
